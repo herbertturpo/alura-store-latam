@@ -65,7 +65,7 @@ Estas visualizaciones se encuentran detalladas en el informe final y (opcionalme
 
 * **Autor:** Este análisis fue realizado por [Heriberto Turpo]. Cualquier contribución o sugerencia para mejorar el análisis es bienvenida.
 * **Datos:** Repositorio público de Alura Latam.
-* **Inspiración:** Reto de análisis de datos de Alura Latam [Alura]().
+* **Inspiración:** Reto de análisis de datos de Alura Latam.
 
 ## Licencia
 
